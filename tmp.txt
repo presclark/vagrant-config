@@ -1,0 +1,48 @@
+==> default:                                               _
+==> default:                                              / )
+==> default:                                         .--.; |    _...,-"""-,
+==> default:                          .-""-.-""""-. /   _`'-._.'   /`      \
+==> default:                         /'     \      \|  (/'-._/     )        ;
+==> default:                 .-""""-;       (       '--' /-'    _           |
+==> default:               .'       |        ;    e     /       a  ,       ;
+==> default:              /          \       |      __.'`-.__,    ;       /
+==> default:             /            `._     ;    .-'     `--.,__.\    /`
+==> default:            //|              \     \,-'                /\_.'
+==> default:           // |               `;.___>              /,-'.
+==> default:         /`|  /                |`\      _..---\    |    \
+==> default:         |/  /     _,.-----\   |  \   /`|      |   |\    \
+==> default:            /    .;   |    |   |   \ /  |      |   | \    )
+==> default:           |    / |   \    /   |\..' \   \     |   \  \..'
+==> default:        jgs \../  \.../    \.../ \.../---'     \.../
+==> default:
+==> default: Read me for some important information!
+==> default:
+==> default: If Puppet did not blow up (you do not see a sea of red above), then your VM
+==> default: was generated successfully!
+==> default:
+==> default: * A unique private key was generated for you! It is located at
+==> default:   "puphpet/files/dot/ssh/id_rsa". If you are on Windows, a PuTTY-friendly key
+==> default:   was also generated at same location with a ".ppk" extension.
+==> default: * If you want to use your own private key for future provisions, overwrite the
+==> default:   generated key above with your own. Make sure to follow the naming pattern,
+==> default:   and include a ".pub" public key.
+==> default: * If you wish to add packages, modules, Apache/Nginx vhosts, or any thing else,
+==> default:   open up "puphpet/config.yaml" and make changes within! Some things will
+==> default:   have random strings like "DIdXRs2OI2LJ" - you must create a random string
+==> default:   as well! To do so, please apply face to keyboard and roll.
+==> default: * If you change "puphpet/config.yaml", simple run "$ vagrant provision" and
+==> default:   your VM will be updated with the changes you requested!
+==> default:
+==> default: Did something go wrong? Don't worry! I can (maybe) help! Please go to our
+==> default: Github issues page at https://github.com/puphpet/puphpet/issues and search for
+==> default: your problem. If you do not find your problem answered, open a new ticket!
+==> default:
+==> default: ----------------------------------------------------------------------------
+==> default: PLEASE REMEMBER TO INCLUDE THE CONTENTS OF YOUR "puphpet/config.yam l" FILE.
+==> default: ----------------------------------------------------------------------------
+==> default:
+==> default: Make sure to xxx out any potential API keys or passwords that you do not want
+==> default: others to see!
+==> default:
+==> default: Happy programming!
+==> default:                                                             - Juan Treminio
